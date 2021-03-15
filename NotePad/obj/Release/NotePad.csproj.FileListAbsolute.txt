@@ -1,0 +1,15 @@
+E:\TestRichTextBox\NotePad\bin\Release\NotePadWPF.exe.config
+E:\TestRichTextBox\NotePad\bin\Release\NotePadWPF.exe
+E:\TestRichTextBox\NotePad\bin\Release\NotePadWPF.pdb
+E:\TestRichTextBox\NotePad\obj\Release\NotePad.csprojAssemblyReference.cache
+E:\TestRichTextBox\NotePad\obj\Release\MainWindow.g.cs
+E:\TestRichTextBox\NotePad\obj\Release\App.g.cs
+E:\TestRichTextBox\NotePad\obj\Release\NotePadWPF_MarkupCompile.cache
+E:\TestRichTextBox\NotePad\obj\Release\NotePadWPF_MarkupCompile.lref
+E:\TestRichTextBox\NotePad\obj\Release\MainWindow.baml
+E:\TestRichTextBox\NotePad\obj\Release\NotePadWPF.g.resources
+E:\TestRichTextBox\NotePad\obj\Release\NotePadWPF.Properties.Resources.resources
+E:\TestRichTextBox\NotePad\obj\Release\NotePad.csproj.GenerateResource.cache
+E:\TestRichTextBox\NotePad\obj\Release\NotePad.csproj.CoreCompileInputs.cache
+E:\TestRichTextBox\NotePad\obj\Release\NotePadWPF.exe
+E:\TestRichTextBox\NotePad\obj\Release\NotePadWPF.pdb
