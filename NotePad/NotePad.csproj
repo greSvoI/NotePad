@@ -60,7 +60,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="IsRegedit.cs" />
+    <Compile Include="Model\IsRegedit.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -69,7 +69,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="ApplicationView.cs" />
+    <Compile Include="View\ApplicationView.cs" />
     <Compile Include="Command\Command.cs" />
     <Compile Include="Command\DelegateCommand.cs" />
     <Compile Include="MainWindow.xaml.cs">
@@ -78,7 +78,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Notepad.cs" />
+    <Compile Include="Model\Notepad.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>

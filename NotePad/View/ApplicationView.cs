@@ -29,6 +29,7 @@ namespace NotePad
         public string Text { get => notepad.Text; set { notepad.Text = value; notepad.IsSave = false;  OnPropertyChanged(""); } }
         public string FileName { get => fileName; set { fileName = value; OnPropertyChanged(""); } }
         public bool AutoRun { get => regedit.autoRun; set { regedit.AutoRun(value); OnPropertyChanged(""); } }
+
         public ICommand OpenFile => new DelegateCommand(()=>Open());
         public ICommand Create => new DelegateCommand(()=>newNotePad());
         public ICommand SaveFile => new DelegateCommand(()=>notepad.SaveFile());

@@ -29,12 +29,12 @@ namespace NotePad
                 foreach (var item in reg)
                     if (key.GetValue(item).ToString() == "NotePadWPF.exe")
                     { flag = true;}
-				key.Close();
+				
 				if (!flag)
                 {
                     char s = char.Parse(reg.LastOrDefault());
                     key.SetValue(Convert.ToChar(s + 1).ToString(), "NotePadWPF.exe");
-                    key.Close();
+
                 }
             }
 
